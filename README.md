@@ -1,1 +1,1 @@
-# Just a fun React project made for Valentine's Day 
+- Just a fun React project made for Valentine's Day 
