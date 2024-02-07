@@ -9,11 +9,15 @@ import '../../App.css';
 
 const phrases = [
   "No",
-  "Please",
   "Are you Sure?",
-  "Don't do this :(",
-  "I will cry now!",
-  "No, please :("
+  "Really Sure?",
+  "Think Again",
+  "Are you absolutely certain?",
+  "Is that your final answer?",
+  "Last Chance",
+  "You Might Regret This",
+  "Have you Reconsidered yet?",
+  "Fine, I guess I'll go fuck myself"
 ]
 
 const Valentines = () => {
